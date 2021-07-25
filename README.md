@@ -1,3 +1,6 @@
+![result.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/657751/3d764987-8ee8-001c-49e0-274edb5b6194.gif)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
