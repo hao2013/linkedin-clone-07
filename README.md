@@ -1,4 +1,3 @@
-![result.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/657751/3d764987-8ee8-001c-49e0-274edb5b6194.gif)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
@@ -14,6 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
+![linkedin-clone-07.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/657751/2fe4803c-ae0e-e488-a926-af67e970b99a.gif)
 
 ### `npm test`
 
