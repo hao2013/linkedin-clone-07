@@ -1,3 +1,5 @@
+![linkedin-clone-07.gif](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/657751/2fe4803c-ae0e-e488-a926-af67e970b99a.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
