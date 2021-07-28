@@ -25,9 +25,9 @@ function Widgets() {
 
       {newArticle("JavaScript", "おすすめのプログラミング言語")}
       {newArticle("React", "JSのライブラリ")}
-      {newArticle("Next.js", "Reactのライブラリ")}
+      {newArticle("Next.js", "Reactのフレームワーク")}
       {newArticle("Vue", "JSのフレームワーク")}
-      {newArticle("Nuxt.js", "Vueのライブラリ")}
+      {newArticle("Nuxt.js", "Vueのフレームワーク")}
     </div>
   );
 }
