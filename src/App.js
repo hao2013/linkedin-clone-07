@@ -16,7 +16,6 @@ function App() {
   useEffect(() => {
     auth.onAuthStateChanged((userAuth) => {
       if (userAuth) {
-        //user is logged in
         dispatch(
           login({
             email: userAuth.email,
@@ -26,7 +25,6 @@ function App() {
           })
         );
       } else {
-        //user is logged out
         dispatch(logout());
       }
     });
